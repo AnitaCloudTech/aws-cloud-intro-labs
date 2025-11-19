@@ -13,6 +13,24 @@
 - **KMS** – Manage encryption keys and encrypt data.
 - **CloudFront** – Create distributions to deliver content from S3.
 
+# AWS Lambda Lab
+
+This lab introduces AWS Lambda and event-driven functions.
+
+## Objectives
+
+- Create a Lambda function
+- Deploy and invoke the function
+- Understand basic event triggers
+
+## Steps
+
+1. Navigate to AWS Lambda in Console
+2. Click "Create Function"
+3. Choose runtime and permissions
+4. Write basic code (e.g., Hello World)
+5. Configure test events and execute
+
 ## Author
 
 Anita Mijatović 
