@@ -13,6 +13,25 @@
 - **KMS** – Manage encryption keys and encrypt data.
 - **CloudFront** – Create distributions to deliver content from S3.
 
+# AWS Key Management Service (KMS) Lab
+
+This lab introduces AWS KMS for managing encryption keys.
+
+## Objectives
+
+- Create a Customer Managed Key (CMK)
+- Assign permissions to users
+- Encrypt and decrypt data using KMS
+
+## Steps
+
+1. Open KMS in AWS Console
+2. Create a new key
+3. Define key administrators and usage permissions
+4. Encrypt sample data using the key
+5. Decrypt the data to verify
+6. Monitor key usage in KMS console
+
 ## Author
 
 Anita Mijatović 
