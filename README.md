@@ -13,6 +13,26 @@
 - **KMS** – Manage encryption keys and encrypt data.
 - **CloudFront** – Create distributions to deliver content from S3.
 
+# Amazon API Gateway Lab
+
+This lab introduces API Gateway by building a simple microservice.
+
+## Objectives
+
+- Create a REST API endpoint
+- Connect the API Gateway to a Lambda function
+- Return JSON responses
+
+## Steps
+
+1. Complete the Lambda lab first
+2. Open API Gateway in AWS Console
+3. Create a new REST API
+4. Define a resource and method (e.g., GET)
+5. Connect the method to the Lambda function
+6. Deploy the API
+7. Test the endpoint using Postman or browser
+
 ## Author
 
 Anita Mijatović 
