@@ -13,6 +13,26 @@
 - **KMS** – Manage encryption keys and encrypt data.
 - **CloudFront** – Create distributions to deliver content from S3.
 
+# Amazon EC2 Lab
+
+This lab provides a basic overview of launching, resizing, managing, and monitoring an Amazon EC2 instance.
+
+## Objectives
+
+- Launch an EC2 instance
+- Resize instance type
+- Connect to EC2 instance
+- Monitor performance
+
+## Steps
+
+1. Open EC2 service in AWS Console
+2. Launch a new EC2 instance
+3. Select instance type and AMI
+4. Configure security groups
+5. Connect via SSH or EC2 Instance Connect
+6. Monitor instance metrics
+
 ## Author
 
 Anita Mijatović 
