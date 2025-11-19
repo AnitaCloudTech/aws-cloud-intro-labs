@@ -13,6 +13,25 @@
 - **KMS** – Manage encryption keys and encrypt data.
 - **CloudFront** – Create distributions to deliver content from S3.
 
+# Amazon CloudFront Lab
+
+This lab introduces AWS CloudFront for content delivery.
+
+## Objectives
+
+- Create a CloudFront distribution
+- Serve content from an S3 bucket
+- Understand caching and edge locations
+
+## Steps
+
+1. Ensure you have a public S3 bucket with content
+2. Open CloudFront in AWS Console
+3. Create a new Web distribution
+4. Select the S3 bucket as origin
+5. Configure caching and behaviors
+6. Deploy and test using the CloudFront domain
+
 ## Author
 
 Anita Mijatović 
