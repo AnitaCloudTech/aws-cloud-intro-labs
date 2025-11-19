@@ -12,6 +12,25 @@
 - **Audit** – Perform basic AWS audits using CloudTrail and CloudWatch.
 - **KMS** – Manage encryption keys and encrypt data.
 - **CloudFront** – Create distributions to deliver content from S3.
+  
+# AWS Identity and Access Management (IAM) Lab
+
+This lab introduces AWS IAM for managing users and permissions.
+
+## Objectives
+
+- Create users and groups
+- Assign policies and permissions
+- Test access control
+
+## Steps
+
+1. Open IAM service in AWS Console
+2. Create a new IAM group
+3. Attach policies to the group
+4. Create a new IAM user and assign to the group
+5. Test logging in with the new user
+6. Observe access restrictions based on assigned policies
 
 ## Author
 
