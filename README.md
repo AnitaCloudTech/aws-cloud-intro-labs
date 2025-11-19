@@ -12,6 +12,24 @@
 - **Audit** – Perform basic AWS audits using CloudTrail and CloudWatch.
 - **KMS** – Manage encryption keys and encrypt data.
 - **CloudFront** – Create distributions to deliver content from S3.
+  
+# Amazon S3 Lab
+
+This lab demonstrates how to use Amazon S3 buckets and objects.
+
+## Objectives
+
+- Create a bucket
+- Upload, view, move, and delete objects
+- Manage bucket permissions
+
+## Steps
+
+1. Open S3 service in AWS Console
+2. Create a bucket
+3. Upload a sample object
+4. Explore object actions (download, move, delete)
+5. Test access and permissions
 
 ## Author
 
