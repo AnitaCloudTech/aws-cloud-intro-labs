@@ -12,6 +12,25 @@
 - **Audit** – Perform basic AWS audits using CloudTrail and CloudWatch.
 - **KMS** – Manage encryption keys and encrypt data.
 - **CloudFront** – Create distributions to deliver content from S3.
+  
+# Amazon DynamoDB Lab
+
+This lab introduces Amazon DynamoDB, a fully managed NoSQL database service.
+
+## Objectives
+
+- Create a DynamoDB table
+- Add, query, update, and delete items
+- Understand partition keys and sort keys
+
+## Steps
+
+1. Open DynamoDB in AWS Console
+2. Click "Create table"
+3. Define table name, primary key, and optionally sort key
+4. Add sample items
+5. Query items using the console
+6. Update or delete items
 
 ## Author
 
